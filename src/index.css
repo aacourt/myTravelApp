@@ -12,3 +12,27 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+body {
+  padding: 50px;
+  background-color: #66CCFF;
+  font-family: sans-serif;
+}
+#container {
+  display: flex;
+  justify-content: center;
+}
+
+html, body{
+  height: 100%;
+}
+
+.App{
+  height: 100%;
+}
+#root{
+  height: 100%;
+}
+#here{
+  height: 100%;
+}
